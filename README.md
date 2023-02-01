@@ -19,3 +19,14 @@ providers: [
 ],
 ```
 
+
+---
+
+
+crear karma.conf.js y en angular.json (en "test":{}, linea 78)
+
+```
+"karmaConfig": "karma.conf.js",
+
+```
+
