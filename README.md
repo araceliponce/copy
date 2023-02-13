@@ -1,3 +1,18 @@
+
+---
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+
+```diff
+10 PRINT “BASIC IS COOL”
+- 20 GOTO 11
++ 20 GOTO 10
+```
+
+`#C6E48B` `#7AC96F` `#249A3C` `#196127`
+ 
+---
+
+
 ```
 ng add angular-cli-ghpages
 ```
