@@ -20,7 +20,21 @@ ng add angular-cli-ghpages
 ng deploy --base-href "/nombre-del-repositorio/"
 ```
 
+
 ---
+
+<https://material.angular.io/guide/schematics>
+
+ng generate @angular/material:navigation <component-name>
+
+ng generate @angular/material:table <component-name>
+
+ng generate @angular/dashboard:table <component-name>
+
+ng generate @angular/material:address-form <component-name>
+
+---
+
 
 an app.module.ts
 
