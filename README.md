@@ -25,13 +25,13 @@ ng deploy --base-href "/nombre-del-repositorio/"
 
 <https://material.angular.io/guide/schematics>
 
-ng generate @angular/material:navigation <component-name>
+ng generate @angular/material:navigation unnombreparaelcomponente
 
-ng generate @angular/material:table <component-name>
+ng generate @angular/material:table unnombreparaelcomponente
 
-ng generate @angular/dashboard:table <component-name>
+ng generate @angular/dashboard:table unnombreparaelcomponente
 
-ng generate @angular/material:address-form <component-name>
+ng generate @angular/material:address-form unnombreparaelcomponente
 
 ---
 
